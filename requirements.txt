@@ -5,3 +5,4 @@ streamlit
 streamlit-webrtc
 huggingface-hub
 numpy
+python-3.10.12
